@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Computer Security
-tagline:          'Security'
+title:            Security
+tagline:          'Computer & Security'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://tmdahr1245.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
